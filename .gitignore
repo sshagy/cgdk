@@ -93,6 +93,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+local-runner/
+.idea/
+log/
 
 # mkdocs documentation
 /site
