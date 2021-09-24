@@ -13,6 +13,7 @@ from model.World import World
 # https://github.com/Russian-AI-Cup-2015
 # visualisator https://github.com/JustAMan/russian-ai-cup-visual/releases/tag/0.1
 # 2016: https://github.com/JustAMan/russian-ai-cup-visual/releases/tag/0.12
+# best example: https://github.com/asanakoy/ai_cup_2015_code_race
 
 
 class cached_property(object):
